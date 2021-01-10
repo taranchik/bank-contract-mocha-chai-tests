@@ -87,6 +87,8 @@ sudo truffle test
 
 [REMIX IDE](https://remix.ethereum.org/)
 
+[Truffle tests](https://www.trufflesuite.com/docs/truffle/testing/testing-your-contracts)
+
 [Back To The Top](#bank-smart-contract-mocha/chai-tests)
 
 ---
