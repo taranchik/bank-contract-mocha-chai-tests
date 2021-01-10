@@ -2,7 +2,7 @@
 
 ![Project Image](https://i.ibb.co/NK9b2h4/photo-2020-12-20-10-50-20.jpg)
 
-> This is a contract functionality.
+> Output of the Bank smart contract testing.
 
 ---
 
