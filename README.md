@@ -72,7 +72,7 @@ cd bank-contract-mocha-chai-tests
 truffle test
 ```
 
-If it won't work for you try the command below
+If it won't work for you try the command below.
 ```
 sudo truffle test
 ```
